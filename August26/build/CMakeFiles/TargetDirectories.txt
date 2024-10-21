@@ -1,0 +1,4 @@
+/home/kpit/Genesis Pro/August26/build/CMakeFiles/mylib.dir
+/home/kpit/Genesis Pro/August26/build/CMakeFiles/main.dir
+/home/kpit/Genesis Pro/August26/build/CMakeFiles/edit_cache.dir
+/home/kpit/Genesis Pro/August26/build/CMakeFiles/rebuild_cache.dir
